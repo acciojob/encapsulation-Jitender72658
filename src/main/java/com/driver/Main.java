@@ -1,7 +1,7 @@
 package com.driver;
 
 public class Main {
-   void main(){
+   public void main(){
      RWOnly obj = new RWOnly();
     // System.out.println(obj.name);
 
